@@ -37,7 +37,7 @@
  *EXT600         20210809   WZHAO       QMS601 IDM changes
  *EXT600         20210917   WZHAO       Change Target test result to use condition rather than test condition
  *EXT600         20211027   WZHAO       Introduce new input parameter ITNO if print from QMS600
- * EXT600        20220615
+ * EXT600        20220615   EDACILLO    TEST
  */
  
  /*
